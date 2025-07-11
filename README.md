@@ -1,6 +1,17 @@
 # Expression of chemosensory genes in larval and adult cephalic appendages in a diving beetle _Cybister lateralimarginalis_
 
-This repository contains scripts and resources for the assembly, annotation, quantification, and differential expression analysis of the transcriptome of _Cybister lateralimarginalis_ using Illumina sequencing data from larvae and adults, categorized by organ.
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 50%;">
+      <p>
+        <strong>This repository contains scripts and resources for the assembly, annotation, quantification, and differential expression analysis of the transcriptome of <i>Cybister lateralimarginalis</i> using Illumina sequencing data from larvae and adults, categorized by organ.</strong>
+      </p>
+    </td>
+    <td style="vertical-align: top; width: 50%;">
+      <img src="https://github.com/user-attachments/assets/91ab83b5-825a-4179-9915-2d9fcf3363f7" width="400" height="400" />
+    </td>
+  </tr>
+</table>
 
 ## Contents
 
